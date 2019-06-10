@@ -148,7 +148,6 @@ MEASURE length(l)
     is_sorted_ud?(merge_sort(l,d),d+1)
 
 
-
 %************************************************************
 %*** QUESTION 01
 %%   Apply strong induction in "k-d" using
